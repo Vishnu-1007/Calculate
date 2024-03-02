@@ -1,0 +1,73 @@
+.start{
+    height: 100px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    top: 100px;
+}
+
+.start1{
+    height: 100px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    top: 100px;
+
+}
+.start2{
+    height: 100px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    top: 100px;
+}
+.start3{
+    height: 100px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    top: 100px;
+
+}
+.start4{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    margin-bottom: 150px;
+}
+#number-equaltoAC, #number-equalto{
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+    border-right: 5px solid black;
+    background-color: #660066;
+    font-size: 1rem;
+}
+
+.row{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    border-right: 5px solid black;
+    background-color: #660066;
+    font-size: 1rem;
+}
+.output{
+    height: 100px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+}
+input{
+    width: 390px;
+    text-align: right;
+    border: 2px solid #132009;
+}
